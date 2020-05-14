@@ -1,9 +1,9 @@
 #                           
-#       | | | | / _ \/  __ \| | / / _ \| \   | \                       
-#       | |_| |/ /_\ \ /  \/| |/ / /_\ \ |   | |                                                                       
-#       | DIMO:201013523838 |Dia3Mo7amed |   | |                        
-#       | | | || | | | \__/\| |\ \ | | | |__ | |__                              
-#       |_| |_/\_| |_/\____/\_| \__| |_/\____\\____\                   
+#       | | | | / _ \/  __ \| | / / _ \| \   | \                                                  
+#       | |_| |/ /_\ \ /  \/| |/ / /_\ \ |   | |                                                                           
+#       | DIMO:201013523838 |Dia3Mo7amed |   | |                                        
+#       | | | || | | | \__/\| |\ \ | | | |__ | |__                                             
+#       |_| |_/\_| |_/\____/\_| \__| |_/\____\\____\                                         
 #       HACK ALL by||DIMO|| mail: eldimo5991@gmail.com
 #           FB: https://www.facebook.com/DIMO5991
 #           github : https://github.com/dimo5991
@@ -95,6 +95,17 @@
 - Shell Checker
 - POET
 - Weeman
+## Run in Linux :
+
+This Tool Must Run As ROOT !!!
+
+```git clone https://github.com/dimo5991/hackall.git```
+
+```cd hackall```
+
+```chmod +x hackall.py```
+
+```sudo python hackall.py```
 
 ## Installation in Linux :
 
@@ -106,9 +117,9 @@ This Tool Must Run As ROOT !!!
 
 ```chmod +x install.sh```
 
-```./install.sh```
+```sudo ./install.sh```
 
-That's it.. you can execute tool by typing **hacktronian**
+That's it.. you can execute tool by typing **hackall**
 
 ## Installation in Android :
 
