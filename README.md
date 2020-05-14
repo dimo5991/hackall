@@ -1,6 +1,7 @@
                                         
-#       HACK ALL by||DIMO|| mail: eldimo5991@gmail.com
-#           FB: https://www.facebook.com/DIMO5991
+#                  HACK ALL by||DIMO||  
+#           mail   : eldimo5991@gmail.com
+#           FB     : https://www.facebook.com/DIMO5991
 #           github : https://github.com/dimo5991
 
 ## HACKALLMenu :
