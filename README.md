@@ -1,9 +1,4 @@
-#                           
-#       | | | | / _ \/  __ \| | / / _ \| \   | \                                                  
-#       | |_| |/ /_\ \ /  \/| |/ / /_\ \ |   | |                                                                           
-#       | DIMO:201013523838 |Dia3Mo7amed |   | |                                        
-#       | | | || | | | \__/\| |\ \ | | | |__ | |__                                             
-#       |_| |_/\_| |_/\____/\_| \__| |_/\____\\____\                                         
+                                        
 #       HACK ALL by||DIMO|| mail: eldimo5991@gmail.com
 #           FB: https://www.facebook.com/DIMO5991
 #           github : https://github.com/dimo5991
